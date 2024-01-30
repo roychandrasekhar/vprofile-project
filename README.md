@@ -1,5 +1,7 @@
 # Setup multi stack Tomcat project in Vagrant
 
+![](https://i.imgur.com/DrJRgtq.png)
+
 ### Provisioning of the VM should be in this order
 1. MySQL (Database)
 2. Memcache (DB Caching)
@@ -214,4 +216,4 @@
     Pass : admin_vp
     
     
-    ![](https://i.imgur.com/bVDOWzL.png)
+
